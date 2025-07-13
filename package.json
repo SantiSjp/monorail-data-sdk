@@ -1,6 +1,6 @@
 {
   "name": "@santi-dev/monorail-data-sdk",
-  "version": "1.0.0",
+  "version": "0.1.1",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
   "scripts": {
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/santi-dev/monorail-data-sdk"
+    "url": "https://github.com/SantiSjp/monorail-data-sdk.git"
   },
   "keywords": [
     "monorail",
